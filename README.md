@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Alex 👋
 
 I'm an **Industrial Engineering student** and passionate electronics enthusiast with a deep interest in **control systems** and **PCB design**. I enjoy working on projects that merge the world of hardware and software, focusing on creating precise and efficient systems for motor control, automation, and beyond. 
 
