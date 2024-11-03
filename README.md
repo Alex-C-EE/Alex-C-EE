@@ -1,31 +1,80 @@
-# Hi, I'm Alex 👋
+# Alex | Control Systems & PCB Design 🎛️
 
-I'm an **Industrial Engineering student** and passionate electronics enthusiast with a deep interest in **control systems** and **PCB design**. I enjoy working on projects that merge the world of hardware and software, focusing on creating precise and efficient systems for motor control, automation, and beyond. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alex-constantinescu-03856316a/)
+[![GitHub followers](https://img.shields.io/github/followers/Alex-C-EE?label=Follow&style=flat-square&logo=github)](https://github.com/Alex-C-EE?tab=followers)
 
-## 🔧 Current Projects
+> Industrial Engineering student crafting precise control systems and electronic solutions 🔧
 
-### 🔩 **DCServo AE: A Smart Servo Motor with Absolute Encoding**
-**DCServo AE** is my flagship project open hardware and open software **Brushed DC motor controller** designed for high-precision motor control. This controller supports **6-36V** at **4.1A continuous** and **5.5A peak**, delivering **10-bit speed control** and **13-bit angle precision**. With this closed-loop system, I aim to achieve accurate motor control (down to 0.05 degrees), making it perfect for high-precision tasks.
+## 🎯 What I Do
 
-### 🔧 **Dumb, Precision Solder Paste Spreader**
-Another project I'm tinkering with is implementing my DCServo project into a precision XY Toolhead, which for my own practical purposes will be solder paste seringe w/ dispenser.
+- 🎛️ Design and implement **control systems** for precision applications
+- 📟 Create **custom PCB solutions** for specialized electronics
+- 🔧 Develop **open-source hardware** for automation and motor control
+- 🤖 Build bridges between hardware and software in embedded systems
 
-## ⚙️ Past Projects
-- **Airbrake Control Board** for a sounding rocket
-- **Groundstation** for rocket communication and control
-- **Tracking Turret Antenna** with advanced control systems
-- **Custom Sensor Boards**
+## 🚀 Featured Projects
 
-## 🎯 Project Interests
-I'm always looking for new challenges that involve:
-- **Control Systems Design**
-- **PCB Layout & Design**
-- **Motor Control & Automation**
+### DCServo AE: Smart Servo with Absolute Encoding
 
-## 🛠 Tech Stack & Tools
-- **Microcontrollers:** STM32 (typically G0 and H5), RP2040, ESP32, Teensy, Arduino
-- **Programming:** Embedded C (STM32), Arduino C, Python
-- **Tools:** MathCAD, STM32 CubeIDE, KiCAD, EagleEDA, Fusion360
+A high-precision brushed DC motor controller built for precision and reliability:
+- 🔋 **Power**: 6-36V input, 4.1A continuous (5.5A peak)
+- 📊 **Control**: 10-bit speed control
+- 🎯 **Precision**: 13-bit angle resolution (±0.05°)
+- 💻 **Open Source**: Hardware and software freely available
 
-## 🚀 Future Goals
-- Develop more open-source projects that can be integrated into larger projects.
+[View Project](https://github.com/Alex-C-EE/dcservo-ae) | [Documentation](https://github.com/Alex-C-EE/dcservo-ae/wiki)
+
+### Precision Solder Paste Dispenser
+<img align="right" width="150" src="/api/placeholder/150/150" alt="Solder Paste Dispenser">
+
+Converting the DCServo project into a precision XY toolhead:
+- 🎯 High-precision dispensing system
+- 🔄 Integrated closed-loop control
+- 🛠️ Modular design for multiple applications
+
+[View Project](https://github.com/Alex-C-EE/SolderPlotter)
+
+## 💼 Past Project Highlights
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 Airbrake Control Board | Custom control system for rocket stabilization | STM32, KiCAD |
+| 📡 Ground Station | Communication hub for rocket telemetry | Python, RP2040 |
+| 🎯 Tracking Turret | Automated antenna positioning system | ESP32, Fusion360 |
+| 🔌 Custom Sensor Boards | Various specialized sensing solutions | STM32, EagleEDA |
+
+## 🛠️ Technical Arsenal
+
+### Hardware
+```
+MCUs       │ STM32 (G0/H5) │ RP2040 │ ESP32 │ Teensy │ Arduino
+Design     │ KiCAD │ EagleEDA │ Fusion360
+Analysis   │ MathCAD │ MATLAB │ Python
+```
+
+### Software
+```
+Languages  │ Embedded C │ Arduino C │ Python
+IDEs       │ STM32 CubeIDE │ VS Code │ Arduino IDE
+Version    │ Git │ GitHub │ GitLab
+Control    │ PID │ State Space │ Kalman Filters
+```
+
+## 📈 Future Directions
+
+- 📚 Expanding open-source contributions
+- 🔧 Developing modular control system libraries
+- 🎓 Research in advanced motor control algorithms
+- 🤝 Collaborating on innovative automation projects
+
+## 📫 Let's Connect!
+
+- 💼 Open for collaboration on embedded systems and control projects
+- 📧 Reach me at: [constantinescu.alex02@gmail.com](mailto:constantinescu.alex02@gmail.com)
+
+---
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-C-EE&show_icons=true&theme=dark)
+
+</div>
