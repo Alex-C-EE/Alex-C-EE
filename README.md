@@ -25,7 +25,7 @@ A high-precision brushed DC motor controller built for precision and reliability
 [View Project](https://github.com/Alex-C-EE/dcservo-ae) | [Documentation](https://github.com/Alex-C-EE/dcservo-ae/wiki)
 
 ### Precision Solder Paste Dispenser
-<img align="right" width="150" src="/api/placeholder/150/150" alt="Solder Paste Dispenser">
+
 
 Converting the DCServo project into a precision XY toolhead:
 - 🎯 High-precision dispensing system
